@@ -1,3 +1,20 @@
+# Pelican generated files
+output
+
+# Jupyter temp files
+.ipynb_checkpoints
+
+# Python temp files
+__pycache__
+*.pyc
+
+# Emacs temp files
+*~
+
+# OSX files
+.DS_Store
+
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
