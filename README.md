@@ -1,5 +1,5 @@
 # Source for http://arvidl.github.io
-This repository contains the source for my Computational Medicine blog http://arvidl.github.io/.
+This repository contains the source for my Computational Medicine blog http://arvidl.github.io/. <br>
 Based on: git clone https://github.com/jakevdp/jakevdp.github.io-source.git
 
 ## Building the Blog
