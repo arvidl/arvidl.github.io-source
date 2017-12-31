@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Brain vasculature<small> M. Kocinski, ..., A. Lundervold.</small>"
+title: Brain vasculature
 date: 2017-05-23
+comments: true
+slug: brain-vasculature-kocinski-iwssip
+tags: brain, vessels, segmentation
 ---
 
 M. Kocinski, A. Materka, A. Deistung, J. Reichenbach, A. Lundervold. Towards multi-scale personalized modeling of brain vasculature based on magnetic resonance image processing. International Conference on Systems, Signals and Image Processing (IWSSIP), 22-24 May 2017, Poznan, Poland. 
