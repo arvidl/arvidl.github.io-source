@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vascular Trees, Microcirculation and Tissue Perfusion<small> A. Lundervold @ Workshop, CMR</small>"
+title: Vascular Trees, Microcirculation and Tissue Perfusion
 date: 2017-12-04
 ---
 

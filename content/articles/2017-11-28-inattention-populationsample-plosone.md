@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Academic achievement, <small> A.J. Lundervold, ..., A. Lundervold, Accepted PLoS ONE</small>"
+title: Inattention and academic achievement
 date: 2017-11-28
 ---
 
