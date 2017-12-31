@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://arvidl.github.io'
+SITEURL = 'https://arvidl.github.io'
 RELATIVE_URLS = False
 
 SHOW_FEED = True
@@ -20,5 +20,5 @@ FEED_USE_SUMMARY = True  # from the feed_summary plugin
 
 DELETE_OUTPUT_DIRECTORY = True
 
-DISQUS_SITENAME = "computationalmedicine"
-# GOOGLE_ANALYTICS = "UA-34061646-1"
+DISQUS_SITENAME = "arvidl-github-io"
+GOOGLE_ANALYTICS = "UA-111733252-1"
