@@ -32,3 +32,7 @@ Deploy to github pages
 ```
 $ make publish-to-github
 ```
+
+Comments (Disqus)
+
+https://arvidl-github-io.disqus.com/admin/settings/general/
