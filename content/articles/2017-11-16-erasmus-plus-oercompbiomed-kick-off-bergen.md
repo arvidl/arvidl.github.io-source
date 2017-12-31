@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Erasmus+ OERCompBiomed, <small> Kick-off Workshop</small>
+title: Erasmus+ OERCompBiomed <small> Kick-off Workshop</small>
 date: 2017-11-16
 comments: true
 slug: erasmus-plus-oercompbiomed
