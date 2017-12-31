@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Erasmus+ OERCompBiomed, <small> Kick-off Workshop (Bergen)</small>"
+title: Erasmus+ OERCompBiomed, <small> Kick-off Workshop</small>
 date: 2017-11-16
+comments: true
+slug: erasmus-plus-oercompbiomed
+tags: e-learning, biomedicine
 ---
 
 Erasmus+ Strategic Partnership for higher education [OPEN EDUCATIONAL RESOURCES IN COMPUTATIONAL BIOMEDICINE](http://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/bc4e0bdb-aa64-4d5c-a7f2-26d68ec36647) 
