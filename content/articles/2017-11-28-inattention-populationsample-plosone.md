@@ -2,6 +2,8 @@
 layout: post
 title: Inattention and academic achievement
 date: 2017-11-28
+comments: true
+tags: inattention, academic achievement, prediction, machine learning, open source, reproducible research
 ---
 
 A.J. Lundervold, T. Bøe, A. Lundervold. Inattention in primary school is not good for your future school achievement - a pattern classification study.
