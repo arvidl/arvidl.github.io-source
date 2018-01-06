@@ -9,7 +9,7 @@ tags: prostate, MRI/histology, image registration
 
 Losnegård A, Reisæter L, Halvorsen OJ, Beisland C, Castilho A, Muren LP, Rørvik J, Lundervold A.
 Intensity-based volumetric registration of magnetic resonance images and whole-mount sections of the prostate.
-Comput Med Imaging Graph. 2017 Dec 15 [[Epub](https://www.sciencedirect.com/science/article/pii/S0895611117301301 ahead of print].
+Comput Med Imaging Graph. 2017 Dec 15 [[Epub](https://www.sciencedirect.com/science/article/pii/S0895611117301301) ahead of print].
 
 ![Losnegård_etal_CMIG_2017_Fig3](http://arvidl.github.io/images/2017-12-12-prostate-mri-histology-cmig-fig3.png "Losnegård_etal_CMIG_2017_Fig3")
 

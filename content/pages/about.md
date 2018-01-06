@@ -12,7 +12,7 @@ I am a professor in medical information technology at the University of Bergen, 
 * <a href="http://www.uib.no/en/persons/Arvid.Lundervold">Departemental webpage</a>
 * <a href="http://computationalmedicine.no">Computational medicine</a>
 * <a href="https://sites.google.com/site/agingcognitionimaging">Aging - cognition, imaging and genetics</a>
-* <a href="http://mmiv.no">Medical Imaging and Visualization Centre</a>
+* <a href="http://mmiv.no">Mohn Medical Imaging and Visualization Centre</a>
 * <a href="http://beta.akademix.no">AkademiX</a>
 * <a href="http://www.uib.no/en/persons/Astri.J..Lundervold">Astri J Lundervold</a>
 * <a href="http://alexander.lundervold.com">Alexander S Lundervold</a>
