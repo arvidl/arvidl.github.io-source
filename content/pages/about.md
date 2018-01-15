@@ -21,6 +21,6 @@ I am a professor in medical information technology at the University of Bergen, 
 
 <br clear="left"/>
 
-Code from my GitHub repository is available at [https://github.com/arvidl](https://github.com/arvidl).<br clear="left"/>
+Code in my GitHub repository is available at [https://github.com/arvidl](https://github.com/arvidl).<br clear="left"/>
 
 Thanks for visiting!
