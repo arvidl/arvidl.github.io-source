@@ -19,6 +19,13 @@ $ source activate pelican-blog
 $ pip install pelican Markdown ghp-import
 ```
 
+Edit content (e.g. using Remarkable)
+
+```
+$ cd content/articles
+$ remarkable yyyy-mm-dd-<blogpost>.md
+```
+
 Build the html and serve locally:
 
 ```
