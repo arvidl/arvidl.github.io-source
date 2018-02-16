@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workshop JPND Brain Imaging Working Group on ND-PETMRI -  harmonisation of integrated and quantitative PET/MRI in neurodegenerative disease
+title: JPND Workshop - Harmonisation of integrated and quantitative PET/MRI in neurodegenerative disease
 date: 2017-09-15
 comments: true
 tags: machine learning, PET-MRI, neurodegenereative disease, JPND
