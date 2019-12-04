@@ -20,7 +20,7 @@ $ conda activate pelican-blog
 $ pip install pelican Markdown ghp-import
 ```
 
-Edit content (e.g. using ~~Remarkable~~  Atom)
+Edit content (e.g. using ~~Remarkable~~  Atom with Markdown preview)
 
 ```
 $ cd content/articles
