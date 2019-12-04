@@ -35,7 +35,15 @@ $ make serve
 $ open http://localhost:8000
 ```
 
-Deploy to github pages
+Add, commit and push changes (to arvidl.github.io-source)
+
+```
+$ git add .
+$ git commit -m "<info on changes>"
+$ git push origin master
+```
+
+Deploy to github pages (on arvidl.github.io)
 
 ```
 $ make publish-to-github
