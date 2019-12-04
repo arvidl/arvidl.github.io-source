@@ -14,8 +14,9 @@ $ git submodule update --init --recursive
 Install the required packages:
 
 ```
-$ conda create -n pelican-blog python=3.5 jupyter notebook
-$ source activate pelican-blog
+$ # conda create -n pelican-blog python=3.5 jupyter notebook
+$ conda create -n pelican-blog python=3.7 jupyter notebook
+$ conda activate pelican-blog
 $ pip install pelican Markdown ghp-import
 ```
 
