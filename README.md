@@ -51,6 +51,10 @@ $ make publish-to-github
 # or
 $ make publish-to-github-force
 ```
+If problem with error: ... got an unexpected keyword argument 'safe' ..., consider downgrading of Markdown<br>
+```
+pip install Markdown==2.6.11
+```
 
 
 Comments (Disqus)
