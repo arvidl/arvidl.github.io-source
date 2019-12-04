@@ -20,11 +20,11 @@ $ conda activate pelican-blog
 $ pip install pelican Markdown ghp-import
 ```
 
-Edit content (e.g. using Remarkable)
+Edit content (e.g. using ~~Remarkable~~  Atom)
 
 ```
 $ cd content/articles
-$ remarkable yyyy-mm-dd-<blogpost>.md
+$ atom yyyy-mm-dd-<blogpost>.md
 ```
 
 Build the html and serve locally:
