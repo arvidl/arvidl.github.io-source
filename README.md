@@ -20,7 +20,7 @@ $ conda activate pelican-blog
 $ pip install pelican Markdown ghp-import
 ```
 
-Edit content (e.g. using ~~Remarkable~~  Atom with Markdown preview)
+Edit content (e.g. using ~~Remarkable~~  `atom` with Markdown Preview)
 
 ```
 $ cd content/articles
@@ -39,6 +39,8 @@ Deploy to github pages
 
 ```
 $ make publish-to-github
+# or
+$ make publish-to-github-force
 ```
 
 Comments (Disqus)
