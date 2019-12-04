@@ -43,13 +43,19 @@ $ git commit -m "<info on changes>"
 $ git push origin master
 ```
 
+<<<<<<< HEAD
 Deploy to github pages (on arvidl.github.io)
+=======
+Deploy to github pages (on arvidl.github.io) <br>
+If Win10: use GitBash based on MINGW64 
+>>>>>>> 0af36feecb2dda69c781ed3637479c1f371710e4
 
 ```
 $ make publish-to-github
 # or
 $ make publish-to-github-force
 ```
+
 
 Comments (Disqus)
 
