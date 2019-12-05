@@ -1,8 +1,10 @@
-Title: Image registration resources <small></small>
+---
+layout: post
+title: Image registration resources <small>(wip)</small>
 date: 2019-12-04
 comments: true
-slug: image-registration-resources
 tags: data, numpy, matplotlib, pandas, scipy, scikit-learn, scikit-image, nibabel, jupyter, keras, tensorflow, pytorch
+---
 
 
 #### See  [[Jupyter notebooks for learning how to use SimpleITK](https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks)]
